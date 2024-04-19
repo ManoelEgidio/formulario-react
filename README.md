@@ -10,3 +10,5 @@ Visualização dos dados do usuário após o cadastro.
 Tecnologias Utilizadas
 React: Biblioteca JavaScript para construção de interfaces de usuário.
 react-router-dom: Biblioteca para controle de rotas no React.
+
+Para aprimorar ainda mais o projeto, alguns ajustes são necessários, especialmente sobre validação. Aprendi a utilizar a hook-forms durante o desenolvimento, mas por conta da necessidade de reescrever toda a lógica optei por manter validação mais simples.
